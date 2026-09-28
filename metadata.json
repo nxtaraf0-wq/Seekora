@@ -1,0 +1,6 @@
+{
+  "name": "Seekora",
+  "description": "Seekora — Premium All-in-One Website Directory & 10M+ Web Search Engine. Explore 10,000,000+ website profiles, 1,000+ categories, 100+ UI designs, and instant search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
